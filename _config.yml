@@ -1,7 +1,7 @@
 name: geoffnathanson1.com
 favicon: null
-layout_spectrum: 0.8449843076523393
-typography_spectrum: 0.08763396763242781
+layout_spectrum: 0.27498
+typography_spectrum: 0.41599
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.22347922110930085
-  lightness: 0.0974551544059068
+  brandStrength: 0.4375
+  lightness: 0.1875
   saturation: 0.9520423035137355
-  rhythmicContrast: 0.3373107980005443
+  rhythmicContrast: 0.5
 purpose: []
