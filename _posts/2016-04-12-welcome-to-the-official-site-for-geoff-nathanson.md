@@ -6,22 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Welcome to the official site for Geoff Nathanson. '
-datePublished: '2016-04-12T00:06:33.533Z'
-dateModified: '2016-04-12T00:06:12.050Z'
+datePublished: '2016-04-12T00:07:47.969Z'
+dateModified: '2016-04-12T00:07:34.240Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-12-welcome-to-the-official-site-for-geoff-nathanson.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-welcome-to-the-official-site-for-geoff-nathanson.md
-published: true
 url: welcome-to-the-official-site-for-geoff-nathanson/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d17d9ac2-681a-48cb-b6e7-3c4d17a53433.jpg)
+
 Welcome to the official site for Geoff Nathanson. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9581f563-bb85-4b4c-8011-234e0d4e4654.jpg)
 
 Geoff may be best known for his commercial roles for GEICO, IBM, Nike, Reebok, Del Taco and Powerade and his recurring role on the ABC Family 
