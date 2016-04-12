@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[geoffnathanson1.com]]></title>
-        <description><![CDATA[geoffnathanson1.com]]></description>
+        <title><![CDATA[geoffnathanson.com]]></title>
+        <description><![CDATA[geoffnathanson.com]]></description>
         <link>https://thegrid.ai/geoffnathanson1-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 00:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 00:16:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geoffnathanson1-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/geoffnathanson1-com/welcome-to-the-official-site-for-geoff-nathanson/index.html</link>
             <guid isPermaLink="false">ae1eb92d-d1fe-46bc-8e44-35f5769a2408</guid>
             <pubDate>Tue, 12 Apr 2016 00:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.imdb.com/name/nm1667734/</p>]]></description>
+            <link>https://thegrid.ai/geoffnathanson1-com/f0dfbdee-456d-4fb6-956f-52ca138271a9/index.html</link>
+            <guid isPermaLink="false">f0dfbdee-456d-4fb6-956f-52ca138271a9</guid>
+            <pubDate>Tue, 12 Apr 2016 00:16:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
